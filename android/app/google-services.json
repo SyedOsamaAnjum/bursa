@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963254141756",
+    "project_id": "bursa-df172",
+    "storage_bucket": "bursa-df172.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963254141756:android:7fa580df9dae79a4ed1439",
+        "android_client_info": {
+          "package_name": "com.example.bursa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963254141756-gmr2jdtf44gg400usn87aauqivi194h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk2EP8X-xqyoJmfXcRuG8noaJwR0BULHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963254141756-gmr2jdtf44gg400usn87aauqivi194h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
